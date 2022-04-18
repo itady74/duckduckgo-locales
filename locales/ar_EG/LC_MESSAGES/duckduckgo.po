@@ -25,12 +25,12 @@ msgstr ""
 #. Heading for the table column indicating what percent of the population is fully vaccinated
 msgctxt "Covid 19 module"
 msgid "% Fully Vaccinated"
-msgstr ""
+msgstr "ملقح بالكامل %"
 
 #. Heading for the table column indicating what percent of the population is partially vaccinated
 msgctxt "Covid 19 module"
 msgid "% Vaccinated"
-msgstr ""
+msgstr "ملقح %"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
@@ -52,11 +52,11 @@ msgstr "أيام مضت %s"
 #. An indication that inputted text was detected to be in this language. E.g.: Italian detected.
 msgctxt "translations_module"
 msgid "%s detected"
-msgstr "تم اكتشاف %s"
+msgstr "تم إكتشاف %s"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
-msgstr "%s ل %s"
+msgstr "%s لـ %s"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -82,20 +82,20 @@ msgstr "%s علي %s"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sإضغط %sإضافة%sإختر %sسماح%s, ثم إضغط %sموافقة%s"
 
 msgctxt "install-duckduckgo"
 msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
-msgstr ""
+msgstr "%sإضغط %sسماح%sإختر %sسماح%s, ثم إضغط %sموافقة%s"
 
 msgctxt "install-duckduckgo"
-msgid ""
+msgid "تنصيب-duckduckgo"
 "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click "
 "%sOkay%s"
 msgstr ""
 
 msgctxt "noresults"
-msgid ""
+msgid "لا توجد نتائج"
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
 msgstr ""
@@ -110,7 +110,7 @@ msgstr "%s تعرف علي المزيد %s"
 
 msgctxt "precise_user_location"
 msgid "%sLearn how we keep your location private%s."
-msgstr ""
+msgstr "%sتعلم كيف تحافظ على خصوصية موقعك%s."
 
 msgctxt "precise_user_location"
 msgid "%sReload%s DuckDuckGo, and try again."
